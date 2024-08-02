@@ -20,9 +20,8 @@ To install and run the software, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
-    ```
+    git clone https://github.com/AlirezaMahmoudian/GFS_ML
+        ```
 
 2. **Install the required packages**:
     ```sh
@@ -64,12 +63,12 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## Contact
 
-For any questions or issues, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or issues, please contact amahmoudian1997@sru.ac.ir, mahmoudianalireza76@gmail.com
 
 ---
 
-**Note**: Make sure to update the repository URL, email address, and any other placeholders with your actual information before uploading the README file to GitHub.
+
